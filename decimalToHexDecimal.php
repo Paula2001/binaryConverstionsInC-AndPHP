@@ -26,4 +26,4 @@ function convertToHexDecimal(int $number ,$numbersBiggerThatNine): string{
     return convertToHexDecimal($number,$numbersBiggerThatNine) . $hex;
 }
 
-echo convertToHexDecimal(188 ,$numbersBiggerThatNine);
+echo convertToHexDecimal(1357 ,$numbersBiggerThatNine);

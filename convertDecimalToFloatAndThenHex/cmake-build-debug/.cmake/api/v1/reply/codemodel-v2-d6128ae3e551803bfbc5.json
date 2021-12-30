@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.21"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "convertDecimalToFloatAndThenHex",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "convertDecimalToFloatAndThenHex::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-convertDecimalToFloatAndThenHex-Debug-7e07041d94f08fbd7e97.json",
+					"name" : "convertDecimalToFloatAndThenHex",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/paul/project/binary/convertDecimalToFloatAndThenHex/cmake-build-debug",
+		"source" : "/home/paul/project/binary/convertDecimalToFloatAndThenHex"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}
